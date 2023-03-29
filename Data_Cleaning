@@ -1,7 +1,0 @@
-import pandas as pd
-import bangla
-import re
-from glob import glob
-file_name = '930157/930157_male'
-files = glob("./"+file_name+"/Text/930157*")
-files
